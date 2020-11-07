@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ReceiptLottery_10AndroidStudio"
