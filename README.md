@@ -1,0 +1,3 @@
+# ReceiptLottery_10AndroidStudio
+統一發票兌獎示範
+団結する請求書引き換えデモ
